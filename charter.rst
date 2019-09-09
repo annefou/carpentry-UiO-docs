@@ -7,7 +7,7 @@ Organization
 The Club board is made up of 6 members: 
 
 - 4 members elected for 2-years. 
-- 2 members are designated by the UiO Science Library. 
+- 2 members are designated by the UiO Library. 
 
 Elections will be organized every year for renewing half of the elected members of the board (2 members).
 
