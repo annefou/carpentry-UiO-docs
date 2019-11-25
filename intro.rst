@@ -8,10 +8,10 @@ Vision/Mission Statement
 We are a group of volunteers from the University of Oslo and beyond. With support from the University of Oslo Library, we offer to PhD students, researchers and others at UiO, and beyond:
 
 - foundational coding and data science skills workshops from `Software Carpentry <http://software-carpentry.org/lessons>`_ and `Data Carpentry <http://datacarpentry.org/lessons>`_
-- `Study Group events <https://uio-carpentry.github.io/studyGroup>`_ to dedicated to open and reproducible science, knowledge sharing, re-enforcing learning or discussing new subjects for future workshops/lesson development
-- educational development and networking opportunities with the possibility to become Certified Carpentries instructor and/or Carpentries Instructor Trainer
+- `Study Group events <https://uio-carpentry.github.io/studyGroup>`_ dedicated to open and reproducible science, knowledge sharing, re-enforcing learning or discussing new subjects for future workshops/lesson development
+- educational development and networking opportunities with the possibility to become Certified Carpentries Instructor and/or Carpentries Instructor Trainer
 
-Our activity and community is open to any member of the UiO community including staff, faculty, and students, paid, and volunteer. We believe the Carpentries’ teaching methods are efficient and can speed up take up toward the adoption of Open Science at UiO. 
+Our activity and community is open to any member of the UiO community including staff, faculty, and students, paid, and volunteer. We believe the Carpentries’ teaching methods are efficient and can speed up take-up toward the adoption of Open Science at UiO. 
 
 Check out the `Carpentry@UiO Charter <charter.rst>`_.
 
@@ -35,7 +35,7 @@ Here we should make sure we acknowledge member participation one way or another.
 What do we do?
 =============
 
-Our primary activity is organizing and teaching hands-on foudnational coding and data science skills workshops using the materials and practices of the Data and Software Carpentry organizations. The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the Carpentries@UiO website.
+Our primary activity is organizing and teaching hands-on foundational coding and data science skills workshops using the materials and practices of the Data and Software Carpentry organizations. The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the Carpentries@UiO website.
 
 
 Code of conduct
