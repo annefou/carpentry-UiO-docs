@@ -1,4 +1,4 @@
-Carpentry@UiO Charter
+Carpentry\@UiO Charter
 ====================
 
 Organization
@@ -22,7 +22,7 @@ Elections will be held at the start of each fall semester. Candidates will self 
 
 The criteria for individuals to stand for election to the board are:
 
-- Is a member of the Carpentry@UiO, broadly defined
+- Is a member of the Carpentry\@UiO, broadly defined
 - Has participated in a Carpentries event in any capacity (learner, helper, instructor, organizer, or host) at UiO or elsewhere in the past 2 years
 
 Anyone who has participated in a Carpentries event in any capacity (learner, helper, instructor, organizer, or host) at UiO or elsewhere in the past 2 years will be eligible to vote. An election manager will be identified by the board to maintain the eligible voter list, notify voters, and tally votes.
