@@ -18,10 +18,10 @@ Check out the `Carpentry@UiO Charter <charter.rst>`_.
 Who are we?
 =============
 
-Carpentry@UiO board (when elected)
+Carpentry\@UiO board (when elected)
 -----------------------------------
 
-Carpentry@UiO instructors
+Carpentry\@UiO instructors
 --------------------------
 
 TODO
@@ -35,7 +35,7 @@ Here we should make sure we acknowledge member participation one way or another.
 What do we do?
 =============
 
-Our primary activity is organizing and teaching hands-on foundational coding and data science skills workshops using the materials and practices of the Data and Software Carpentry organizations. The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the Carpentries@UiO website.
+Our primary activity is organizing and teaching hands-on foundational coding and data science skills workshops using the materials and practices of the Data and Software Carpentry organizations. The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the Carpentries\@UiO website.
 
 
 Code of conduct
@@ -50,8 +50,8 @@ TODO: reporting guidelines
 Contributing
 =============
 
-Carpentry@UiO is open to anyone interested in teaching foundational coding and data science skills outside of the 
-traditional UiO curriculum. All our members abide to the Carpentry@UiO code of conduct.
+Carpentry\@UiO is open to anyone interested in teaching foundational coding and data science skills outside of the 
+traditional UiO curriculum. All our members abide to the Carpentry\@UiO code of conduct.
 
 If you wish to teach or help at upcoming workshops, add your name to the `signup sheet
 <https://docs.google.com/spreadsheets/d/1JJ5Fb5F17PiLk1TrgDUIyuLIQVvXNsVYBG3ggZArEzU/edit#gid=1383870600>`_.
