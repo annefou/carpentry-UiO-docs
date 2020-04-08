@@ -1,5 +1,5 @@
 Carpentry\@UiO Charter
-====================
+=====================
 
 Organization
 -------------
@@ -49,6 +49,9 @@ Amendments to the Charter
 --------------------------
 
 Amendments to the charter can be proposed by existing board members in writing
-in advance of any board meeting. 
+in advance of any board meeting.
 
 Amendments require a 2/3 majority vote to be accepted.
+
+
+This text is based on `the University of Florida Carpentries Club Charter <https://www.uf-carpentries.org/charter/>`_.
