@@ -2,8 +2,7 @@
 Vision/Mission Statement
 =========================
 
-`Carpentry@UiO
-<https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/>`_
+`Carpentry@UiO <https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/>`_
 is the UiO local relay of the international
 `Carpentries <https://carpentries.org>`_ organisation.
 
@@ -63,14 +62,28 @@ and all other club activities will be posted publicly on the web
 Code of conduct
 =================
 
-We follow the `Carpentries’ Code of Conduct
-<https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_
+We follow the `Carpentries’ Code of Conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_
 to provide an inclusive and supportive environment for our learners
 and our members. Any violation of our Code of Conduct should
-be reported to ??? where it will be handled as quickly as possible
-and will remain confidential.
+be reported, it will then be handled as quickly as possible
+and will remain confidential:
 
-TODO: reporting guidelines
+- to report Code of Conduct violations for official Carpentries workshops,
+  see the Carpentries `Code of Conduct Incident Reporting Guidelines <https://docs.carpentries.org/topic_folders/policies/incident-reporting.html>`_
+- to report Code of Conduct violations for local Carpentry\@UiO workshops,
+  use UiO’s
+  `speak-up <https://www.uio.no/english/about/hse/speak-up/index.html>`_ (English)
+  or `si-fra <https://www.uio.no/om/hms/si-fra/>`_ (Norwegian) reporting
+
+
+If the workshop is a local workshop
+rather than an official Carpentries workshop,
+the workshop website will have the Carpentry\@UiO logo:
+
+.. image:: img/uio-carpentry-logo-circle.png
+  :width: 40
+
+
 
 Contributing
 =============
@@ -85,4 +98,4 @@ please reply to the calls regularly sent to the
 organizers @ swcarpentry dot uio dot no mailing list
 or contact carpadmin @ swcarpentry dot uio dot no.
 For more information, please refer to
-[the Carpentry@UiO onboarding checklist](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md#how-do-i-get-started-with-teaching-a-carpentries-workshop-at-uio)
+`the Carpentry@UiO onboarding checklist <https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md#how-do-i-get-started-with-teaching-a-carpentries-workshop-at-uio>`_
