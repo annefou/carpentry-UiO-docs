@@ -92,3 +92,10 @@ Carpentry\@UiO is open to anyone interested in teaching foundational coding
 and data science skills outside of the
 traditional UiO curriculum.
 All our members abide to the Carpentry\@UiO code of conduct.
+
+If you wish to teach or help at upcoming workshops,
+please reply to the calls regularly sent to the
+organizers @ swcarpentry dot uio dot no mailing list
+or contact carpadmin @ swcarpentry dot uio dot no.
+For more information, please refer to
+`the Carpentry@UiO onboarding checklist <https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md#how-do-i-get-started-with-teaching-a-carpentries-workshop-at-uio>`_
