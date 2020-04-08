@@ -85,4 +85,5 @@ please reply to the calls regularly sent to the
 organizers @ swcarpentry dot uio dot no mailing list
 or contact carpadmin @ swcarpentry dot uio dot no.
 For more information, please refer to
-[the Carpentry@UiO onboarding checklist](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md#how-do-i-get-started-with-teaching-a-carpentries-workshop-at-uio)
+`the Carpentry@UiO onboarding checklist 
+<https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md#how-do-i-get-started-with-teaching-a-carpentries-workshop-at-uio>`_
