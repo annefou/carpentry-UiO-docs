@@ -33,7 +33,12 @@ Who are we?
 
 Carpentry\@UiO board (when elected)
 -----------------------------------
-
+- Anne Schad Bergsaker, USIT
+- Tobias Busch, UV
+- Viviane Girardin, NIVA
+- Lex Nederbragt, IBV
+- Annika Rockenberger, UB
+- Naoe Tatara, UB
 Carpentry\@UiO instructors
 --------------------------
 
