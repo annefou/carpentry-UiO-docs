@@ -31,8 +31,17 @@ Check out the `Carpentry@UiO Charter <charter.rst>`_.
 Who are we?
 =============
 
-Carpentry\@UiO board (when elected)
+Carpentry\@UiO board
 -----------------------------------
+
+The 2020 Carpentry@UiO Board consist of:
+
+* Lex Nederbragt (elected, UiO, chair)
+* Viviane Girardin (elected, NIVA, vice chair)
+* Naoe Tatara (appointed by University Library, UiO, communication officer)
+* Tobias Busch (elected, UiO, secretary)
+* Anne Schad Bergsaker (elected, UiO)
+* Annika Rockenberger (appointed by University Library, UiO)
 
 Carpentry\@UiO instructors
 --------------------------
