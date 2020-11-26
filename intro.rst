@@ -31,14 +31,20 @@ Check out the `Carpentry@UiO Charter <charter.rst>`_.
 Who are we?
 =============
 
-Carpentry\@UiO board (when elected)
+Carpentry\@UiO board
 -----------------------------------
-- Anne Schad Bergsaker, USIT
-- Tobias Busch, UV
-- Viviane Girardin, NIVA
-- Lex Nederbragt, IBV
-- Annika Rockenberger, UB
-- Naoe Tatara, UB
+**University of Oslo**
+
+- Anne Schad Bergsaker, University Center for Information Technology (USIT)
+- Tobias Busch,  Department of Special Needs Education (UV)
+- Lex Nederbragt, Department of BioSciences (IBV) and Department of Informatics (IFI)
+- Annika Rockenberger, University of Oslo Library, Humanities and Social Sciences Library (UB)
+- Naoe Tatara, University of Oslo Library, Science Library (UB)
+
+**Norwegian Institute for Water Research**
+
+- Viviane Girardin, Section for Environmental Data Science (NIVA)
+
 Carpentry\@UiO instructors
 --------------------------
 
