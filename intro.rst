@@ -36,14 +36,14 @@ Carpentry\@UiO board
 **University of Oslo**
 
 - Anne Schad Bergsaker, University Center for Information Technology (USIT)
-- Tobias Busch,  Department of Special Needs Education (UV)
-- Lex Nederbragt, Department of BioSciences (IBV) and Department of Informatics (IFI)
-- Annika Rockenberger, University of Oslo Library, Humanities and Social Sciences Library (UB)
-- Naoe Tatara, University of Oslo Library, Science Library (UB)
+- Tobias Busch,  Department of Special Needs Education (ISP) - secretary
+- Lex Nederbragt, Department of BioSciences (IBV) and Department of Informatics (IFI) - chair
+- Annika Rockenberger, University of Oslo Library, Humanities and Social Sciences Library (UB) - appointed by university library
+- Naoe Tatara, University of Oslo Library, Science Library (UB) - appointed by university library
 
 **Norwegian Institute for Water Research**
 
-- Viviane Girardin, Section for Environmental Data Science (NIVA)
+- Viviane Girardin, Section for Environmental Data Science (NIVA) - vice-chair
 
 Carpentry\@UiO instructors
 --------------------------
