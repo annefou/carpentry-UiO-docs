@@ -45,6 +45,8 @@ Carpentry\@UiO board
 
 - Viviane Girardin, Section for Environmental Data Science (NIVA) - vice-chair
 
+Minutes of the Carpentry\@UiO meetings can be found [in the meeting minutes folder](https://github.com/uio-carpentry/organisational/tree/master/meetings).
+
 Carpentry\@UiO instructors
 --------------------------
 
