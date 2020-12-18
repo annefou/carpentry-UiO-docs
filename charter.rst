@@ -1,8 +1,8 @@
 Carpentry\@UiO Charter
-=====================
+======================
 
 Organization
--------------
+------------
 
 The Club board is made up of 6 members:
 
@@ -49,7 +49,7 @@ Communications officer
 
 
 Elections
-----------
+---------
 
 Elections will be held at the start of each fall semester.
 The board chair and board secretary are in charge of
@@ -79,7 +79,7 @@ the newly elected members of the next board.
 
 
 Amendments to the Charter
---------------------------
+-------------------------
 
 Amendments to the charter can be proposed by existing board members in writing
 in advance of any board meeting.
