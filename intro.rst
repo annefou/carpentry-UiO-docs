@@ -1,6 +1,6 @@
 
 Vision/Mission Statement
-=========================
+========================
 
 `Carpentry@UiO <https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/>`_
 is the UiO local relay of the international
@@ -29,7 +29,7 @@ and can speed up take-up toward the adoption of Open Science at UiO.
 Check out the `Carpentry@UiO Charter <charter.rst>`_.
 
 Who are we?
-=============
+===========
 
 Carpentry\@UiO board
 -----------------------------------
@@ -58,7 +58,7 @@ TODO
 Here we should make sure we acknowledge member participation one way or another.
 
 What do we do?
-=============
+==============
 
 Our primary activity is organizing and teaching hands-on foundational coding
 and data science skills workshops using the materials and practices
@@ -71,7 +71,7 @@ and all other club activities will be posted publicly on the web
 
 
 Code of conduct
-=================
+===============
 
 We follow the `Carpentries’ Code of Conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_
 to provide an inclusive and supportive environment for our learners
@@ -97,7 +97,7 @@ the workshop website will have the Carpentry\@UiO logo:
 
 
 Contributing
-=============
+============
 
 Carpentry\@UiO is open to anyone interested in teaching foundational coding
 and data science skills outside of the
