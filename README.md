@@ -1,7 +1,3 @@
 # Documentation for Carpentry@UiO operation
 
-copyright: 2020, Carpentry@UiO members'
-author: Carpentry@UiO members
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
+This repository is no longer maintained. The governance docs (Vision/Mission statement and Charter) have been incorporated into the [Carpentry@UiO Github organisation website repository](https://github.com/uio-carpentry/uio-carpentry.github.io) which is rendered as a website [here](https://uio-carpentry.github.io/). Changes to these documents will be made there and this repository might eventually be deleted.
